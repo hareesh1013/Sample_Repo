@@ -1,2 +1,2 @@
-print "local repo"
+print "remote repo"
 print "hello,World"
